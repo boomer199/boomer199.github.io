@@ -35,17 +35,6 @@ body {
     line-height: 1.6;
     color: var(--black);
     background-color: var(--white);
-    background-image: 
-        radial-gradient(ellipse 100% 30% at 5% 5%, rgba(147, 197, 253, 0.5) 0%, transparent 50%),
-        radial-gradient(ellipse 80% 25% at 95% 8%, rgba(249, 168, 212, 0.45) 0%, transparent 50%),
-        radial-gradient(ellipse 90% 20% at 10% 25%, rgba(249, 168, 212, 0.35) 0%, transparent 50%),
-        radial-gradient(ellipse 70% 25% at 85% 35%, rgba(147, 197, 253, 0.4) 0%, transparent 50%),
-        radial-gradient(ellipse 60% 15% at 50% 45%, rgba(196, 181, 253, 0.3) 0%, transparent 50%),
-        radial-gradient(ellipse 85% 20% at 15% 55%, rgba(147, 197, 253, 0.4) 0%, transparent 50%),
-        radial-gradient(ellipse 75% 25% at 90% 65%, rgba(249, 168, 212, 0.4) 0%, transparent 50%),
-        radial-gradient(ellipse 90% 20% at 20% 75%, rgba(249, 168, 212, 0.45) 0%, transparent 50%),
-        radial-gradient(ellipse 80% 25% at 80% 85%, rgba(147, 197, 253, 0.35) 0%, transparent 50%),
-        radial-gradient(ellipse 70% 20% at 40% 95%, rgba(196, 181, 253, 0.3) 0%, transparent 50%);
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
 }
